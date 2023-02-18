@@ -1,3 +1,4 @@
+CURRENCY_LIST = ["GBP", "EUR", "USD", "ISK"]
 AUDIT_HEADERS = [
     "date",
     "rate",

@@ -1,17 +1,12 @@
 import streamlit as st
-import requests
-import json
 import arrow
 import pandas as pd
-import csv
-import os.path
+
 from datetime import datetime
 
 from common import *
 from api import *
 from audit_log import *
-
-CURRENCY_LIST = ["GBP", "EUR", "USD", "ISK"]
 
 
 #############################
