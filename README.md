@@ -3,16 +3,6 @@
 
 Currency converter app in Python 
 
-## Demo
-
-A live demo is available here:
-
-https://jgibbarduk-currency-converter-currency-converter-v6ohj8.streamlit.app
-
-## Screenshot
-
-![App Screenshot](https://raw.githubusercontent.com/jgibbarduk/currency-converter/main/images/screenshot.png)
-
 ## Installation
 
 Python 3.10+ is supported. Install all requirements, preferably using Poetry(https://python-poetry.org/):
@@ -31,3 +21,13 @@ poetry install
 poetry shell
 streamlit run currency_converter.py
 ```
+
+## Demo
+
+A live demo is available here:
+
+https://jgibbarduk-currency-converter-currency-converter-v6ohj8.streamlit.app
+
+## Screenshot
+
+![App Screenshot](https://raw.githubusercontent.com/jgibbarduk/currency-converter/main/images/screenshot.png)
