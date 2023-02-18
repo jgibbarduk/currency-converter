@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Currency converter app"
 authors = ["James Gibbard <jgibbard@gmail.com>"]
 readme = "README.md"
-packages = [{include = "currency_converter"}]
+packages = []
 
 [tool.poetry.dependencies]
 python = "^3.10"

@@ -3,6 +3,7 @@ import requests
 from common import *
 from audit_log import *
 
+
 def _get(url: str) -> dict:
     """Performs the GET request on a URL
 

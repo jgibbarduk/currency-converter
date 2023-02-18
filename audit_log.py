@@ -7,6 +7,7 @@ from common import *
 
 DATABASE_FILE = "audit_data.csv"
 
+
 def read_audit_log() -> pd.DataFrame:
     """Reads the audit log from the CSV file
 

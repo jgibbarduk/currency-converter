@@ -1,4 +1,4 @@
-sAUDIT_HEADERS = [
+AUDIT_HEADERS = [
     "date",
     "rate",
     "amount",
