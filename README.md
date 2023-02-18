@@ -11,7 +11,7 @@ https://jgibbarduk-currency-converter-currency-converter-v6ohj8.streamlit.app
 
 ## Screenshot
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://raw.githubusercontent.com/jgibbarduk/currency-converter/main/images/screenshot.png)
 
 ## Installation
 
