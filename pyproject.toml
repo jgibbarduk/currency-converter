@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "currency-converter"
+version = "0.1.0"
+description = "Currency converter app"
+authors = ["James Gibbard <jgibbard@gmail.com>"]
+readme = "README.md"
+packages = [{include = "currency_converter"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+streamlit = "^1.18.1"
+requests = "^2.28.2"
+arrow = "^1.2.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
