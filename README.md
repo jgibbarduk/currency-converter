@@ -1,7 +1,7 @@
 # Currency Converter
 Currency converter app in Python 
 #
-Python 3.10+ is supported. Install all requirements, preferably using Poetry[https://python-poetry.org/]:
+Python 3.10+ is supported. Install all requirements, preferably using Poetry(https://python-poetry.org/):
 * Clone this repo
 * Install poetry:
 ```bash
