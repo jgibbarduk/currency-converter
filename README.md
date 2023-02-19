@@ -3,9 +3,11 @@
 
 Currency converter app in Python 
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jgibbarduk-currency-converter-currency-converter-v6ohj8.streamlit.app)
+
 ## Installation
 
-Python 3.10+ is supported. Install all requirements, preferably using Poetry(https://python-poetry.org/):
+Python 3.10+ is supported. Install all requirements, preferably using [Poetry](https://python-poetry.org/):
 * Clone this repo
 * Install poetry:
 ```bash
